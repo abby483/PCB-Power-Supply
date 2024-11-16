@@ -1,0 +1,1 @@
+This project is creates a dual DC Power Supply (5V and 12V) through the use of DC-DC converters on a PCB. The aim of this project is to obtain a smooth 5V and 12V output voltage from a low voltage input. Included in this project is a datasheet, decision matrix, risk register, bill of materials, manufacturing test plan and verification plan.
